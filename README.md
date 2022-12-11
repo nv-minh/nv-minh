@@ -15,8 +15,7 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=nv-minh158&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img alt="gif" align="center" src="/videoplasty-11018-chill-coding-programming-lofi-animation-stock-animation-pdp.gif"> 
 
 
 ---
