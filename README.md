@@ -12,8 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nv-minh158&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nv-minh158&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=nv-minh158&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 <img alt="gif" align="center" src="/videoplasty-11018-chill-coding-programming-lofi-animation-stock-animation-pdp.gif"> 
 
