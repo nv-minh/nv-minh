@@ -1,6 +1,6 @@
 # 💫About Me :
 <h1 align="center"><img alt="Portfolio" src="/vietnam (1).png"> Minh Ngo Van <img alt="Portfolio" src="/vietnam (1).png"></h1> 
-<h3 align="center"><img alt="Portfolio" src="/circuit.png"> Electronic and Telecommunications <img alt="Portfolio" src="/code-solid.svg"></h3>
+<h3 align="center"><img alt="Portfolio" src="/circuit.png"> Electronic and Telecommunications <img alt="Portfolio" src="/code-solid.svg" width="24" height="24"></h3>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/minh66hn) 
