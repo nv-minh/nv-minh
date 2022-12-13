@@ -12,7 +12,7 @@
 ![l](https://img.shields.io/badge/Vue.js-green?style=for-the-badge&logo=vue-dot-js&logoColor=white)
 ![l](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![l](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next-dot-js&logoColor=61DAFB)
-![l](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
  <img align="right" height="80em" src="https://i.pinimg.com/originals/4a/ff/a0/4affa0f1f9da41409869f7da57e0f88c.gif" >
 <hr>
 
