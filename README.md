@@ -16,7 +16,7 @@
  <img align="right" height="80em" src="https://i.pinimg.com/originals/4a/ff/a0/4affa0f1f9da41409869f7da57e0f88c.gif" >
 <hr>
 
-[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
+[![My user statistics](images/userstats.svg)](https://github.com/nv-minh158/user-statistician)
 
 <img alt="gif" align="center" src="/videoplasty-11018-chill-coding-programming-lofi-animation-stock-animation-pdp.gif"> 
 
