@@ -16,7 +16,22 @@
  <img align="right" height="80em" src="https://i.pinimg.com/originals/4a/ff/a0/4affa0f1f9da41409869f7da57e0f88c.gif" >
 <hr>
 
-[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
+---
+<table width="100%">
+
+<td valign="top" width="40%">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nv-minh158&label=PROFILE+VIEWS) 
+
+</td>
+<td valign="top" width="60%">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nv-minh15&theme=vue-dark&show_icons=true)
+
+
+</td>
+</tr>
+</table>
 
 <img alt="gif" align="center" src="/videoplasty-11018-chill-coding-programming-lofi-animation-stock-animation-pdp.gif"> 
 
