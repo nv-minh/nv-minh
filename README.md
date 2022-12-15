@@ -21,7 +21,7 @@
 
 <td valign="top" width="40%">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nv-minh158&label=PROFILE+VIEWS) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nv-minh158&layout=compact) 
 
 </td>
 <td valign="top" width="60%">
