@@ -21,12 +21,12 @@
 
 <td valign="top" width="40%">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nv-minh158&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nv-minh&layout=compact) 
 
 </td>
 <td valign="top" width="60%">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nv-minh158&theme=vue-dark&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nv-minh&theme=vue-dark&show_icons=true)
 
 
 </td>
