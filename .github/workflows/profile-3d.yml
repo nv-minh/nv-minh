@@ -14,10 +14,10 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: MY_GITHUB_TOKEN
-          USERNAME: minh-nv
+          USERNAME: nv-minh
       - name: Commit & Push
         run: |
-          git config user.name minh-nv
+          git config user.name nv-minh
           git config user.email minhsadz@gmail.com
           git add -A .
           git commit -m "generated"
