@@ -13,7 +13,7 @@
         </td>
     </tr>
     </table>
-<img alt="gif" align="center" src="/videoplasty-11018-chill-coding-programming-lofi-animation-stock-animation-pdp.gif"> 
+<img autoplay alt="gif" align="center" src="/videoplasty-11018-chill-coding-programming-lofi-animation-stock-animation-pdp.gif"> 
 ---
 
 
